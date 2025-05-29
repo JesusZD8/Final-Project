@@ -32,4 +32,4 @@ A handy tool that creates random secure passwords or snippets of code based on u
 
 
 
--[lLive Website](https://jesuszd8.github.io/Final-Project/)
+-[Live Website](https://jesuszd8.github.io/Final-Project/)
