@@ -26,4 +26,10 @@ A fun and memory-testing game where players flip over cards to find matching pai
 A handy tool that creates random secure passwords or snippets of code based on user input. This project helped me work with JavaScript string functions, form inputs, and user-friendly UI design. It’s both practical and a great way to dive deeper into logic-based programming.
 
 -[Github Repo](https://github.com/JesusZD8/Final-Project)
+
+
+
+
+
+
 -[lLive Website](https://jesuszd8.github.io/Final-Project/)
